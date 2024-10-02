@@ -1,36 +1,47 @@
 # MultiExe 进程管理器
 
-MultiExe 是一个 Python 脚本，用于批量启动多个可执行文件。它能够检查指定的进程是否已经在运行，如果没有运行则启动它们。
+MultiExe 是一个 Python 脚本，用于批量管理和启动多个可执行文件。它能够检查指定的进程是否已经在运行，如果没有运行则以隐藏窗口的方式启动它们。
 
 ## 功能特点
 
 - 自动检查并启动指定的可执行文件
 - 避免重复启动已运行的进程
+- 以隐藏窗口方式启动进程，不干扰用户界面
 - 详细的日志记录，包括成功启动和错误信息
 - 使用 `psutil` 库进行高效的进程检查
-- 支持隐藏启动的进程窗口
+- 使用 Windows API 创建隐藏进程
 
 ## 依赖项
 
 - Python 3.x
 - psutil 库
+- pywin32 库
 
 ## 安装
 
 1. 克隆此仓库：
-git clone https://github.com/your-username/multiexe-process-manager.git
+   ```bash
+   git clone https://github.com/your-username/multiexe-process-manager.git
+   ```
 
 2. 安装所需的依赖：
-pip install psutil
+   ```bash
+   pip install psutil pywin32
+   ```
 
 ## 使用方法
 
 1. 编辑 `commands.txt` 文件，添加您想要管理的可执行文件路径，每行一个。
 2. 运行脚本：
-python multiexe_exec_subprocess.py
+   ```bash
+   python multiexe_exec_subprocess.py
+   ```
 
 ## 配置
+
 您可以通过编辑 `commands.txt` 文件来自定义要管理的可执行文件。例如：
+
+```
 D:\Program Files (x86)\FreeCommander XE\FreeCommander.exe
 D:\Program Files (x86)\WizNoteOld\Wiz.exe
 D:\Program Files (x86)\WizNote\WizNote.exe

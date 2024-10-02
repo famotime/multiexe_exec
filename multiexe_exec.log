@@ -1,6 +1,12 @@
-2024-10-02 07:52:53,797 - INFO - 成功启动进程：D:\Program Files (x86)\FreeCommander XE\FreeCommander.exe
-2024-10-02 07:52:54,000 - INFO - 成功启动进程：D:\Program Files (x86)\WizNoteOld\Wiz.exe
-2024-10-02 07:52:54,281 - INFO - 成功启动进程：D:\Program Files (x86)\WizNote\WizNote.exe
-2024-10-02 07:52:54,344 - INFO - 进程已在运行，跳过启动：C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
-2024-10-02 07:52:54,630 - INFO - 进程已在运行，跳过启动：C:\Program Files\Microsoft VS Code\Code.exe
-2024-10-02 07:52:54,630 - INFO - 脚本执行完毕
+2024-10-02 08:15:28,914 - INFO - 进程已在运行，跳过启动：D:\Program Files (x86)\FreeCommander XE\FreeCommander.exe
+2024-10-02 08:15:29,086 - INFO - 进程已在运行，跳过启动：D:\Program Files (x86)\WizNoteOld\Wiz.exe
+2024-10-02 08:15:29,274 - INFO - 进程已在运行，跳过启动：D:\Program Files (x86)\WizNote\WizNote.exe
+2024-10-02 08:15:29,321 - INFO - 进程已在运行，跳过启动：C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+2024-10-02 08:15:29,502 - INFO - 进程已在运行，跳过启动：C:\Program Files\Microsoft VS Code\Code.exe
+2024-10-02 08:15:29,502 - INFO - 脚本执行完毕
+2024-10-02 08:17:59,772 - INFO - 进程已在运行，跳过启动：D:\Program Files (x86)\FreeCommander XE\FreeCommander.exe
+2024-10-02 08:17:59,955 - INFO - 成功启动进程：D:\Program Files (x86)\WizNoteOld\Wiz.exe
+2024-10-02 08:18:00,255 - INFO - 成功启动进程：D:\Program Files (x86)\WizNote\WizNote.exe
+2024-10-02 08:18:00,321 - INFO - 进程已在运行，跳过启动：C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+2024-10-02 08:18:00,607 - INFO - 进程已在运行，跳过启动：C:\Program Files\Microsoft VS Code\Code.exe
+2024-10-02 08:18:00,607 - INFO - 脚本执行完毕

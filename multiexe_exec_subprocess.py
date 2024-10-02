@@ -8,7 +8,7 @@ import win32con
 # 设置日志
 log_file = Path(__file__).parent / "multiexe_exec.log"
 logging.basicConfig(
-    level=logging.DEBUG,
+    level=logging.INFO,
     format='%(asctime)s - %(levelname)s - %(message)s',
     filename=str(log_file),
     filemode='a',
@@ -35,7 +35,7 @@ def is_process_running(command):
                     logging.debug(f"命令行匹配: {process.info['cmdline']}")
                     return True
         except Exception as e:
-            logging.debug(f"检查进程时出现异常: {str(e)}")
+            logging.info(f"检查进程时出现异常: {str(e)}")
     logging.debug(f"未找到匹配的进程: {command}")
     return False
 
