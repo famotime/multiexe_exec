@@ -10,3 +10,183 @@
 2024-10-02 08:18:00,321 - INFO - 进程已在运行，跳过启动：C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
 2024-10-02 08:18:00,607 - INFO - 进程已在运行，跳过启动：C:\Program Files\Microsoft VS Code\Code.exe
 2024-10-02 08:18:00,607 - INFO - 脚本执行完毕
+2024-10-02 17:37:54,377 - INFO - 成功启动进程：D:\Program Files (x86)\FreeCommander XE\FreeCommander.exe
+2024-10-02 17:37:54,550 - INFO - 成功启动进程：D:\Program Files (x86)\WizNoteOld\Wiz.exe
+2024-10-02 17:37:54,733 - INFO - 成功启动进程：D:\Program Files (x86)\WizNote\WizNote.exe
+2024-10-02 17:37:55,068 - INFO - 成功启动进程：C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+2024-10-02 17:37:55,325 - INFO - 成功启动进程：C:\Program Files\Microsoft VS Code\Code.exe
+2024-10-02 17:37:55,325 - INFO - 脚本执行完毕
+2024-10-10 16:18:43,370 - INFO - 成功启动进程：D:\Program Files (x86)\FreeCommander XE\FreeCommander.exe
+2024-10-10 16:18:43,540 - INFO - 成功启动进程：D:\Program Files (x86)\WizNoteOld\Wiz.exe
+2024-10-10 16:18:43,723 - INFO - 成功启动进程：D:\Program Files (x86)\WizNote\WizNote.exe
+2024-10-10 16:18:43,882 - INFO - 成功启动进程：C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+2024-10-10 16:18:44,391 - INFO - 成功启动进程：C:\Program Files\Microsoft VS Code\Code.exe
+2024-10-10 16:18:44,391 - INFO - 脚本执行完毕
+2024-10-10 19:33:32,570 - INFO - 成功启动进程：D:\Program Files (x86)\FreeCommander XE\FreeCommander.exe
+2024-10-10 19:33:32,904 - INFO - 成功启动进程：D:\Program Files (x86)\WizNoteOld\Wiz.exe
+2024-10-10 19:33:33,292 - INFO - 成功启动进程：D:\Program Files (x86)\WizNote\WizNote.exe
+2024-10-10 19:33:33,745 - INFO - 成功启动进程：C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+2024-10-10 19:33:34,216 - ERROR - 启动进程时出错 C:\Program Files\Microsoft VS Code\Code.exe: (2, 'CreateProcess', '系统找不到指定的文件。')
+2024-10-10 19:33:34,217 - INFO - 脚本执行完毕
+2024-10-12 19:48:11,608 - INFO - 成功启动进程：D:\Program Files (x86)\FreeCommander XE\FreeCommander.exe
+2024-10-12 19:48:11,996 - INFO - 成功启动进程：D:\Program Files (x86)\WizNoteOld\Wiz.exe
+2024-10-12 19:48:12,444 - INFO - 成功启动进程：D:\Program Files (x86)\WizNote\WizNote.exe
+2024-10-12 19:48:12,836 - INFO - 成功启动进程：C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+2024-10-12 19:48:13,299 - ERROR - 启动进程时出错 C:\Program Files\Microsoft VS Code\Code.exe: (2, 'CreateProcess', '系统找不到指定的文件。')
+2024-10-12 19:48:13,299 - INFO - 脚本执行完毕
+2024-10-13 08:48:31,163 - INFO - 成功启动进程：D:\Program Files (x86)\FreeCommander XE\FreeCommander.exe
+2024-10-13 08:48:31,425 - INFO - 成功启动进程：D:\Program Files (x86)\WizNoteOld\Wiz.exe
+2024-10-13 08:48:31,746 - INFO - 成功启动进程：D:\Program Files (x86)\WizNote\WizNote.exe
+2024-10-13 08:48:32,264 - INFO - 成功启动进程：C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+2024-10-13 08:48:32,737 - ERROR - 启动进程时出错 C:\Program Files\Microsoft VS Code\Code.exe: (2, 'CreateProcess', '系统找不到指定的文件。')
+2024-10-13 08:48:32,737 - INFO - 脚本执行完毕
+2024-10-14 20:45:49,030 - INFO - 成功启动进程：D:\Program Files (x86)\FreeCommander XE\FreeCommander.exe
+2024-10-14 20:45:49,269 - INFO - 成功启动进程：D:\Program Files (x86)\WizNoteOld\Wiz.exe
+2024-10-14 20:45:49,536 - INFO - 成功启动进程：D:\Program Files (x86)\WizNote\WizNote.exe
+2024-10-14 20:45:50,403 - INFO - 成功启动进程：C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+2024-10-14 20:45:50,726 - ERROR - 启动进程时出错 C:\Program Files\Microsoft VS Code\Code.exe: (2, 'CreateProcess', '系统找不到指定的文件。')
+2024-10-14 20:45:50,726 - INFO - 脚本执行完毕
+2024-10-15 20:34:54,141 - INFO - 成功启动进程：D:\Program Files (x86)\FreeCommander XE\FreeCommander.exe
+2024-10-15 20:34:54,297 - INFO - 成功启动进程：D:\Program Files (x86)\WizNoteOld\Wiz.exe
+2024-10-15 20:34:54,485 - INFO - 成功启动进程：D:\Program Files (x86)\WizNote\WizNote.exe
+2024-10-15 20:34:54,626 - INFO - 成功启动进程：C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+2024-10-15 20:34:54,845 - ERROR - 启动进程时出错 C:\Program Files\Microsoft VS Code\Code.exe: (2, 'CreateProcess', '系统找不到指定的文件。')
+2024-10-15 20:34:54,845 - INFO - 脚本执行完毕
+2024-10-16 20:59:32,810 - INFO - 成功启动进程：D:\Program Files (x86)\FreeCommander XE\FreeCommander.exe
+2024-10-16 20:59:32,982 - INFO - 成功启动进程：D:\Program Files (x86)\WizNoteOld\Wiz.exe
+2024-10-16 20:59:33,170 - INFO - 成功启动进程：D:\Program Files (x86)\WizNote\WizNote.exe
+2024-10-16 20:59:33,326 - INFO - 成功启动进程：C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+2024-10-16 20:59:33,545 - ERROR - 启动进程时出错 C:\Program Files\Microsoft VS Code\Code.exe: (2, 'CreateProcess', '系统找不到指定的文件。')
+2024-10-16 20:59:33,545 - INFO - 脚本执行完毕
+2024-10-17 21:06:16,585 - INFO - 成功启动进程：D:\Program Files (x86)\FreeCommander XE\FreeCommander.exe
+2024-10-17 21:06:16,846 - INFO - 成功启动进程：D:\Program Files (x86)\WizNoteOld\Wiz.exe
+2024-10-17 21:06:17,177 - INFO - 成功启动进程：D:\Program Files (x86)\WizNote\WizNote.exe
+2024-10-17 21:06:17,459 - INFO - 成功启动进程：C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+2024-10-17 21:06:17,750 - ERROR - 启动进程时出错 C:\Program Files\Microsoft VS Code\Code.exe: (2, 'CreateProcess', '系统找不到指定的文件。')
+2024-10-17 21:06:17,750 - INFO - 脚本执行完毕
+2024-10-18 20:44:21,482 - INFO - 成功启动进程：D:\Program Files (x86)\FreeCommander XE\FreeCommander.exe
+2024-10-18 20:44:21,682 - INFO - 成功启动进程：D:\Program Files (x86)\WizNoteOld\Wiz.exe
+2024-10-18 20:44:21,877 - INFO - 成功启动进程：D:\Program Files (x86)\WizNote\WizNote.exe
+2024-10-18 20:44:22,479 - INFO - 成功启动进程：C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+2024-10-18 20:44:22,742 - ERROR - 启动进程时出错 C:\Program Files\Microsoft VS Code\Code.exe: (2, 'CreateProcess', '系统找不到指定的文件。')
+2024-10-18 20:44:22,742 - INFO - 脚本执行完毕
+2024-10-19 09:02:51,056 - INFO - 成功启动进程：D:\Program Files (x86)\FreeCommander XE\FreeCommander.exe
+2024-10-19 09:02:51,283 - INFO - 成功启动进程：D:\Program Files (x86)\WizNoteOld\Wiz.exe
+2024-10-19 09:02:51,564 - INFO - 成功启动进程：D:\Program Files (x86)\WizNote\WizNote.exe
+2024-10-19 09:02:52,023 - INFO - 成功启动进程：C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+2024-10-19 09:02:52,314 - ERROR - 启动进程时出错 C:\Program Files\Microsoft VS Code\Code.exe: (2, 'CreateProcess', '系统找不到指定的文件。')
+2024-10-19 09:02:52,315 - INFO - 脚本执行完毕
+2024-10-19 21:08:18,070 - INFO - 成功启动进程：D:\Program Files (x86)\FreeCommander XE\FreeCommander.exe
+2024-10-19 21:08:18,298 - INFO - 成功启动进程：D:\Program Files (x86)\WizNoteOld\Wiz.exe
+2024-10-19 21:08:18,561 - INFO - 成功启动进程：D:\Program Files (x86)\WizNote\WizNote.exe
+2024-10-19 21:08:19,080 - INFO - 成功启动进程：C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+2024-10-19 21:08:19,484 - ERROR - 启动进程时出错 C:\Program Files\Microsoft VS Code\Code.exe: (2, 'CreateProcess', '系统找不到指定的文件。')
+2024-10-19 21:08:19,484 - INFO - 脚本执行完毕
+2024-10-20 08:11:51,709 - INFO - 成功启动进程：D:\Program Files (x86)\FreeCommander XE\FreeCommander.exe
+2024-10-20 08:11:51,960 - INFO - 成功启动进程：D:\Program Files (x86)\WizNoteOld\Wiz.exe
+2024-10-20 08:11:52,237 - INFO - 成功启动进程：D:\Program Files (x86)\WizNote\WizNote.exe
+2024-10-20 08:11:52,478 - INFO - 成功启动进程：C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+2024-10-20 08:11:52,709 - ERROR - 启动进程时出错 C:\Program Files\Microsoft VS Code\Code.exe: (2, 'CreateProcess', '系统找不到指定的文件。')
+2024-10-20 08:11:52,709 - INFO - 脚本执行完毕
+2024-10-23 20:47:06,702 - INFO - 成功启动进程：D:\Program Files (x86)\FreeCommander XE\FreeCommander.exe
+2024-10-23 20:47:06,973 - INFO - 成功启动进程：D:\Program Files (x86)\WizNoteOld\Wiz.exe
+2024-10-23 20:47:09,647 - INFO - 成功启动进程：D:\Program Files (x86)\WizNote\WizNote.exe
+2024-10-23 20:47:09,906 - INFO - 成功启动进程：C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+2024-10-23 20:47:10,170 - ERROR - 启动进程时出错 C:\Program Files\Microsoft VS Code\Code.exe: (2, 'CreateProcess', '系统找不到指定的文件。')
+2024-10-23 20:47:10,170 - INFO - 脚本执行完毕
+2024-10-24 07:08:35,240 - INFO - 成功启动进程：D:\Program Files (x86)\FreeCommander XE\FreeCommander.exe
+2024-10-24 07:08:36,384 - INFO - 成功启动进程：D:\Program Files (x86)\WizNoteOld\Wiz.exe
+2024-10-24 07:08:36,971 - INFO - 成功启动进程：D:\Program Files (x86)\WizNote\WizNote.exe
+2024-10-24 07:08:37,258 - INFO - 成功启动进程：C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+2024-10-24 07:08:37,509 - ERROR - 启动进程时出错 C:\Program Files\Microsoft VS Code\Code.exe: (2, 'CreateProcess', '系统找不到指定的文件。')
+2024-10-24 07:08:37,509 - INFO - 脚本执行完毕
+2024-10-27 08:35:40,638 - INFO - 成功启动进程：D:\Program Files (x86)\FreeCommander XE\FreeCommander.exe
+2024-10-27 08:35:40,888 - INFO - 成功启动进程：D:\Program Files (x86)\WizNoteOld\Wiz.exe
+2024-10-27 08:35:41,106 - INFO - 成功启动进程：D:\Program Files (x86)\WizNote\WizNote.exe
+2024-10-27 08:35:41,278 - INFO - 成功启动进程：C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+2024-10-27 08:35:41,497 - ERROR - 启动进程时出错 C:\Program Files\Microsoft VS Code\Code.exe: (2, 'CreateProcess', '系统找不到指定的文件。')
+2024-10-27 08:35:41,497 - INFO - 脚本执行完毕
+2024-10-28 20:26:32,183 - INFO - 成功启动进程：D:\Program Files (x86)\FreeCommander XE\FreeCommander.exe
+2024-10-28 20:26:32,446 - INFO - 成功启动进程：D:\Program Files (x86)\WizNoteOld\Wiz.exe
+2024-10-28 20:26:32,752 - INFO - 成功启动进程：D:\Program Files (x86)\WizNote\WizNote.exe
+2024-10-28 20:26:33,034 - INFO - 成功启动进程：C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+2024-10-28 20:26:33,369 - ERROR - 启动进程时出错 C:\Program Files\Microsoft VS Code\Code.exe: (2, 'CreateProcess', '系统找不到指定的文件。')
+2024-10-28 20:26:33,369 - INFO - 脚本执行完毕
+2024-10-29 20:50:22,570 - INFO - 成功启动进程：D:\Program Files (x86)\FreeCommander XE\FreeCommander.exe
+2024-10-29 20:50:22,831 - INFO - 成功启动进程：D:\Program Files (x86)\WizNoteOld\Wiz.exe
+2024-10-29 20:50:23,911 - INFO - 成功启动进程：D:\Program Files (x86)\WizNote\WizNote.exe
+2024-10-29 20:50:24,297 - INFO - 成功启动进程：C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+2024-10-29 20:50:24,761 - ERROR - 启动进程时出错 C:\Program Files\Microsoft VS Code\Code.exe: (2, 'CreateProcess', '系统找不到指定的文件。')
+2024-10-29 20:50:24,761 - INFO - 脚本执行完毕
+2024-10-30 20:17:56,115 - INFO - 成功启动进程：D:\Program Files (x86)\FreeCommander XE\FreeCommander.exe
+2024-10-30 20:17:56,360 - INFO - 成功启动进程：D:\Program Files (x86)\WizNoteOld\Wiz.exe
+2024-10-30 20:17:56,595 - INFO - 成功启动进程：D:\Program Files (x86)\WizNote\WizNote.exe
+2024-10-30 20:17:57,301 - INFO - 成功启动进程：C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+2024-10-30 20:17:57,608 - ERROR - 启动进程时出错 C:\Program Files\Microsoft VS Code\Code.exe: (2, 'CreateProcess', '系统找不到指定的文件。')
+2024-10-30 20:17:57,608 - INFO - 脚本执行完毕
+2024-11-01 21:04:49,376 - INFO - 成功启动进程：D:\Program Files (x86)\FreeCommander XE\FreeCommander.exe
+2024-11-01 21:04:49,570 - INFO - 成功启动进程：D:\Program Files (x86)\WizNoteOld\Wiz.exe
+2024-11-01 21:04:50,583 - INFO - 成功启动进程：D:\Program Files (x86)\WizNote\WizNote.exe
+2024-11-01 21:04:51,381 - INFO - 成功启动进程：C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+2024-11-01 21:04:51,711 - ERROR - 启动进程时出错 C:\Program Files\Microsoft VS Code\Code.exe: (2, 'CreateProcess', '系统找不到指定的文件。')
+2024-11-01 21:04:51,711 - INFO - 脚本执行完毕
+2024-11-02 09:35:53,333 - INFO - 成功启动进程：D:\Program Files (x86)\FreeCommander XE\FreeCommander.exe
+2024-11-02 09:35:53,604 - INFO - 成功启动进程：D:\Program Files (x86)\WizNoteOld\Wiz.exe
+2024-11-02 09:35:53,823 - INFO - 成功启动进程：D:\Program Files (x86)\WizNote\WizNote.exe
+2024-11-02 09:35:54,010 - INFO - 成功启动进程：C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+2024-11-02 09:35:54,230 - ERROR - 启动进程时出错 C:\Program Files\Microsoft VS Code\Code.exe: (2, 'CreateProcess', '系统找不到指定的文件。')
+2024-11-02 09:35:54,230 - INFO - 脚本执行完毕
+2024-11-03 09:36:21,347 - INFO - 成功启动进程：D:\Program Files (x86)\FreeCommander XE\FreeCommander.exe
+2024-11-03 09:36:22,304 - INFO - 成功启动进程：D:\Program Files (x86)\WizNoteOld\Wiz.exe
+2024-11-03 09:36:22,855 - INFO - 成功启动进程：D:\Program Files (x86)\WizNote\WizNote.exe
+2024-11-03 09:36:23,033 - INFO - 成功启动进程：C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+2024-11-03 09:36:23,246 - ERROR - 启动进程时出错 C:\Program Files\Microsoft VS Code\Code.exe: (2, 'CreateProcess', '系统找不到指定的文件。')
+2024-11-03 09:36:23,246 - INFO - 脚本执行完毕
+2024-11-03 09:40:30,045 - INFO - 成功启动进程：D:\Program Files (x86)\FreeCommander XE\FreeCommander.exe
+2024-11-03 09:40:30,306 - INFO - 成功启动进程：D:\Program Files (x86)\WizNoteOld\Wiz.exe
+2024-11-03 09:40:30,557 - INFO - 成功启动进程：D:\Program Files (x86)\WizNote\WizNote.exe
+2024-11-03 09:40:30,794 - INFO - 成功启动进程：C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+2024-11-03 09:40:30,995 - ERROR - 启动进程时出错 C:\Program Files\Microsoft VS Code\Code.exe: (2, 'CreateProcess', '系统找不到指定的文件。')
+2024-11-03 09:40:30,995 - INFO - 脚本执行完毕
+2024-11-09 08:21:37,689 - INFO - 成功启动进程：D:\Program Files (x86)\FreeCommander XE\FreeCommander.exe
+2024-11-09 08:21:37,957 - INFO - 成功启动进程：D:\Program Files (x86)\WizNoteOld\Wiz.exe
+2024-11-09 08:21:38,233 - INFO - 成功启动进程：D:\Program Files (x86)\WizNote\WizNote.exe
+2024-11-09 08:21:38,466 - INFO - 成功启动进程：C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+2024-11-09 08:21:38,681 - ERROR - 启动进程时出错 C:\Program Files\Microsoft VS Code\Code.exe: (2, 'CreateProcess', '系统找不到指定的文件。')
+2024-11-09 08:21:38,681 - INFO - 脚本执行完毕
+2024-11-10 08:45:43,344 - INFO - 成功启动进程：D:\Program Files (x86)\FreeCommander XE\FreeCommander.exe
+2024-11-10 08:45:43,630 - INFO - 成功启动进程：D:\Program Files (x86)\WizNoteOld\Wiz.exe
+2024-11-10 08:45:43,884 - INFO - 成功启动进程：D:\Program Files (x86)\WizNote\WizNote.exe
+2024-11-10 08:45:44,138 - INFO - 成功启动进程：C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+2024-11-10 08:45:44,351 - ERROR - 启动进程时出错 C:\Program Files\Microsoft VS Code\Code.exe: (2, 'CreateProcess', '系统找不到指定的文件。')
+2024-11-10 08:45:44,351 - INFO - 脚本执行完毕
+2024-11-10 08:46:38,693 - INFO - 进程已在运行，跳过启动：D:\Program Files (x86)\FreeCommander XE\FreeCommander.exe
+2024-11-10 08:46:38,933 - INFO - 进程已在运行，跳过启动：D:\Program Files (x86)\WizNoteOld\Wiz.exe
+2024-11-10 08:46:39,174 - INFO - 进程已在运行，跳过启动：D:\Program Files (x86)\WizNote\WizNote.exe
+2024-11-10 08:46:39,209 - INFO - 进程已在运行，跳过启动：C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+2024-11-10 08:46:39,474 - ERROR - 启动进程时出错 C:\Program Files\Microsoft VS Code\Code.exe: (2, 'CreateProcess', '系统找不到指定的文件。')
+2024-11-10 08:46:39,474 - INFO - 脚本执行完毕
+2024-11-10 08:47:00,392 - INFO - 成功启动进程：D:\Program Files (x86)\FreeCommander XE\FreeCommander.exe
+2024-11-10 08:47:00,613 - INFO - 进程已在运行，跳过启动：D:\Program Files (x86)\WizNoteOld\Wiz.exe
+2024-11-10 08:47:00,794 - INFO - 成功启动进程：D:\Program Files (x86)\WizNote\WizNote.exe
+2024-11-10 08:47:01,026 - INFO - 成功启动进程：C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+2024-11-10 08:47:01,534 - ERROR - 启动进程时出错 C:\Program Files\Microsoft VS Code\Code.exe: (2, 'CreateProcess', '系统找不到指定的文件。')
+2024-11-10 08:47:01,534 - INFO - 脚本执行完毕
+2024-11-11 20:43:41,496 - INFO - 成功启动进程：D:\Program Files (x86)\FreeCommander XE\FreeCommander.exe
+2024-11-11 20:43:41,686 - INFO - 成功启动进程：D:\Program Files (x86)\WizNoteOld\Wiz.exe
+2024-11-11 20:43:41,918 - INFO - 成功启动进程：D:\Program Files (x86)\WizNote\WizNote.exe
+2024-11-11 20:43:42,056 - INFO - 成功启动进程：C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+2024-11-11 20:43:42,271 - ERROR - 启动进程时出错 C:\Program Files\Microsoft VS Code\Code.exe: (2, 'CreateProcess', '系统找不到指定的文件。')
+2024-11-11 20:43:42,271 - INFO - 脚本执行完毕
+2024-11-13 20:02:49,385 - INFO - 成功启动进程：D:\Program Files (x86)\FreeCommander XE\FreeCommander.exe
+2024-11-13 20:02:49,652 - INFO - 成功启动进程：D:\Program Files (x86)\WizNoteOld\Wiz.exe
+2024-11-13 20:02:49,955 - INFO - 成功启动进程：D:\Program Files (x86)\WizNote\WizNote.exe
+2024-11-13 20:02:50,237 - INFO - 成功启动进程：C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+2024-11-13 20:02:50,706 - ERROR - 启动进程时出错 C:\Program Files\Microsoft VS Code\Code.exe: (2, 'CreateProcess', '系统找不到指定的文件。')
+2024-11-13 20:02:50,706 - INFO - 脚本执行完毕
+2024-11-15 19:45:59,884 - INFO - 成功启动进程：D:\Program Files (x86)\FreeCommander XE\FreeCommander.exe
+2024-11-15 19:46:00,169 - INFO - 成功启动进程：D:\Program Files (x86)\WizNoteOld\Wiz.exe
+2024-11-15 19:46:00,452 - INFO - 成功启动进程：D:\Program Files (x86)\WizNote\WizNote.exe
+2024-11-15 19:46:01,284 - INFO - 成功启动进程：C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+2024-11-15 19:46:01,648 - ERROR - 启动进程时出错 C:\Program Files\Microsoft VS Code\Code.exe: (2, 'CreateProcess', '系统找不到指定的文件。')
+2024-11-15 19:46:01,649 - INFO - 脚本执行完毕
